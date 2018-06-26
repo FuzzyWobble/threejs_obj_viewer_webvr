@@ -9,5 +9,5 @@ Tested on Firefox Nightly w/ Oculus
 Still missing:
 
 - Soft shadows casted on ground plane
-- Rotate stuff
+- Rotate scene around camera
 - MTLs from Rhino that don't look like hell
