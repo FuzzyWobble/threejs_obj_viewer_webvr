@@ -2,7 +2,7 @@
 
 Codebase for loading and viewing a OBJ/MTL in three.js webvr
 
-All dependencies are included in /lib with exception to threejs r93 which is loaded from http src
+All dependencies are included in /lib 
 
 Tested on Firefox Nightly w/ Oculus 
 
